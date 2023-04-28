@@ -9,29 +9,11 @@
   🏢 Atualmente trabalho com atendimento ao cliente na @freshfilmes 
 </p>
 
-
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/hectorsouza/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/_euHec">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
-
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=euHec&show_icons=true&count_private=true&theme=merko" width="350"></a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euHec&hide_progress=false&theme=merko" width="350"></a>
-</p>
-
-<p align='center'>
-  📫 <a href='mailto:hectorsouzass@gmail.com'>hectorsouzass@gmail.com</a>
-<p align='center'>
-  <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" width='15px' /><a href='https://wa.me/5575991821105'>(75) 99182-1105</a>
 </p>
 
 <details>

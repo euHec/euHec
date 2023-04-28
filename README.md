@@ -91,7 +91,7 @@
 <img align="right" src="https://img.shields.io/badge/HTML-e34c26?logo=HTML&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/CSS-563d7c?logo=CSS&logoColor=white" />
 
-**Programming**
+**Tecnologias**
 
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />

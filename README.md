@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- uses: lowlighter/metrics@latest
+  with:
+    template: repository
+    user: lowlighter
+    repo: metrics

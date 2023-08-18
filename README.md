@@ -6,7 +6,7 @@
   📚 Estudo desenvolvimento web na Trybe
 </p>
 <p align='center'>
-  🏢 Atualmente trabalho com atendimento ao cliente na @freshfilmes 
+  🏢 Atualmente trabalho como assistente de TI no Colégio COC - Feira de Santana
 </p>
 
 <p align='center'>

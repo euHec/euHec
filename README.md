@@ -40,7 +40,7 @@
 ## Instituições
 - 📍 **Fresh Filmes**\
   👨‍💻 Novos negócios\
-  📆 fev de 2023 - o momento
+  📆 fev de 2023 - jun de 2023
 
 - 📍 **CMT - Conecta Minas**\
   👨‍💻 Líder de equipe de cobrança\
@@ -72,6 +72,9 @@
 <img align="right" src="https://img.shields.io/badge/JavaScript-ffff00?logo=JavaScript&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/HTML-e34c26?logo=HTML&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/CSS-563d7c?logo=CSS&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Typescript-235a97?logo=typescript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Express-040306?logo=express&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Node.js-026e00?logo=node&logoColor=white"/>
 
 **Tecnologias**
 

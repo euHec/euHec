@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  📚 Estudo desenvolvimento web na Trybe
+  📚 Estudo Ciências da Computação na UNIFACS
 </p>
 <p align='center'>
   🏢 Atualmente trabalho como assistente de TI no Colégio COC - Feira de Santana
@@ -21,8 +21,12 @@
 
 ## Instituições
 - 📖 **Desenvolvimento Web**\
-📆 2022 - 2023\
+📆 2022 - 2024\
 📍 **Trybe** - Brazil
+
+- 📖 **Ciências da Computação**\
+📆 2024 - Em andamento\
+📍 **UNIFACS**
 
 - 📖 **Sistema de informação**\
 📆 2019 - Em pausa\
@@ -38,6 +42,10 @@
   <summary>📃 Experiência</summary>
 
 ## Instituições
+- 📍 **Colégio COC - Feira de Santana**\
+  👨‍💻 **Assistente de TI**\
+  📆 Jul de 2023 - Atualmente
+
 - 📍 **Fresh Filmes**\
   👨‍💻 Novos negócios\
   📆 fev de 2023 - jun de 2023

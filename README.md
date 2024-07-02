@@ -43,7 +43,7 @@
 
 ## Instituições
 - 📍 **Colégio COC - Feira de Santana**\
-  👨‍💻 **Assistente de TI**\
+  👨‍💻 Assistente de TI\
   📆 Jul de 2023 - Atualmente
 
 - 📍 **Fresh Filmes**\
@@ -74,27 +74,25 @@
 
 ## Skills
 
+**Tecnologias**
+<br>
+<img align="right" src="https://img.shields.io/badge/docker-white?logo=docker&logoColor=Green" />
+<img align="right" src="https://img.shields.io/badge/python-white?logo=python&logoColor=Green" />
+<img align="right" src="https://img.shields.io/badge/Android-white?logo=android&logoColor=Green" />
 <img align="right" src="https://img.shields.io/badge/Testing Library-fa383e?logo=TestingLibrary&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Jest-00a400?logo=JEST&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/React-4479A1?logo=react&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/JavaScript-ffff00?logo=JavaScript&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-ffff00?logo=JavaScript&logoColor=black" />\
 <img align="right" src="https://img.shields.io/badge/HTML-e34c26?logo=HTML&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/CSS-563d7c?logo=CSS&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Typescript-235a97?logo=typescript&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Express-040306?logo=express&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/Node.js-026e00?logo=node&logoColor=white"/>
+<br>
 
-**Tecnologias**
-
+**Sistema operacionais**
+<br>
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
-**Sistema operacionais**
 
-<!--
-
-**euHec/euHec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
